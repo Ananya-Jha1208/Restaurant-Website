@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url(img/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+    background-image: url(img/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg); 
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -39,8 +39,8 @@
 
 .section-intro h1 {
     text-align: center;
-    color: #ffffff;
-    font-size: 4em;
+    color: #fff;
+    font-size: 5em;
     font-weight: 700;
 }
 
@@ -131,6 +131,18 @@ a.link-to-book:hover {
 .contact-adress p span {
     display: block;
 }
+
+/* Footer Styles */
+.footer {
+    background-color: #0c231c;
+    color: #fff;
+    padding: 7.5px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
 
 @media (min-width:577px) and (max-width: 800px) {
 
