@@ -19,4 +19,4 @@ Nestled in the heart of our vibrant town of Jagdalpur, our restaurant offers mor
 
 Visit our website and make a reservation to join us on this culinary journey... now! 
 
-https://thebambookitchen.vercel.app/
+[The Bamboo Kitchen](https://thebambookitchen.vercel.app/)
