@@ -1,6 +1,6 @@
 # The Bamboo Kitchen 
 <p align="center">
-<img src=""> 
+<img src="https://github.com/Ananya-Jha1208/The-Bamboo-Kitchen/blob/master/img/website-ss.png"> 
 </p>  
 <h2 align="center">
     Indulge in exquisite dining crafted with bamboo essence!
